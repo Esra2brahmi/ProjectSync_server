@@ -1,0 +1,6 @@
+[submodule "ProjectSync_front"]
+	path = ProjectSync_front
+	url = git@github.com:Esra2brahmi/ProjectSync_front.git
+[submodule "ProjectSync_back"]
+	path = ProjectSync_back
+	url = git@github.com:Esra2brahmi/ProjectSync_back.git
